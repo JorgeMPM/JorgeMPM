@@ -1,7 +1,7 @@
 # Hola, soy Jorge Martín Pérez Moreno 👋
 
-**Desarrollador Software Junior** · Spring Boot · SQL · Docker · Cloud
-📍 Madrid, España · Disponible para prácticas y empleo (presencial, híbrido o remoto)
+**Desarrollador Software Junior**
+📍 Madrid, España · **Disponible para prácticas y empleo, incorporación inmediata** (presencial, híbrido o remoto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-martin-perez-moreno)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://jorge-martin-dev.netlify.app/)
