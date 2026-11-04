@@ -28,8 +28,8 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 ![Python](https://img.shields.io/badge/Python_(PCEP)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Calidad y testing
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
