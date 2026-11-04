@@ -29,6 +29,7 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Java EE](https://img.shields.io/badge/Java_EE_(JSP_·_Servlets)-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(PCEP)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,8 +41,6 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-### Otros lenguajes
-![Python](https://img.shields.io/badge/Python_(PCEP)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### En formación · Bootcamp Cloud y DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
