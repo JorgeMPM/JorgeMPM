@@ -1,6 +1,6 @@
 # Hola, soy Jorge Martín Pérez Moreno 👋
 
-**Desarrollador Java Backend Junior** · Spring Boot · SQL · Docker · Cloud
+**Desarrollador Software Junior** · Spring Boot · SQL · Docker · Cloud
 📍 Madrid, España · Disponible para prácticas y empleo (presencial, híbrido o remoto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-martin-perez-moreno)
