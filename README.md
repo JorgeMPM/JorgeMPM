@@ -10,7 +10,7 @@
 
 ## 🙋 Sobre mí
 
-Vengo de **más de 7 años en banca y servicios financieros** (CaixaBank, Liberbank, Eurocaja Rural y DCredit), donde gestioné carteras de clientes, expedientes hipotecarios e incidencias operativas con plazos de resolución inferiores a 24 h.
+Vengo de **más de 9 años en banca y servicios financieros** (CaixaBank, Liberbank, Eurocaja Rural y DCredit), donde gestioné carteras de clientes, expedientes hipotecarios e incidencias operativas con plazos de resolución inferiores a 24 h.
 
 En 2025 di el salto al desarrollo de software. Desde entonces me formo en **backend con Java y Spring** en programas de Accenture y la Universidad San Pablo CEU, y en **Cloud y DevOps** con AWS, Docker, Kubernetes y Terraform.
 
