@@ -30,7 +30,7 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 
 ### Backend
 
-<img src="assets/stack-backend.svg" alt="Java, Java EE (JSP · Servlets), Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Maven, Apache Tomcat, Python">
+<img src="assets/stack-backend.svg" alt="Java, Java EE , Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Maven, Apache Tomcat, Python">
 
 ### Bases de datos
 
