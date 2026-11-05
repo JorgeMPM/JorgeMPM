@@ -84,7 +84,7 @@ Juego de tres en raya por consola contra la máquina. Proyecto final del curso d
 
 ## 📚 Formación técnica
 
-- **Programa de Especialización Java Backend e IA Generativa** · Accenture y Universidad San Pablo CEU · 2026
+- **Programa de Especialización en Desarrollo Backend Java e IA Generativa** · Accenture y Universidad San Pablo CEU · 2026
 - **Bootcamp Cloud Computing y DevOps** · BlockStellart · 2025 – actualidad
 - **Programa de Especialización en Desarrollo Backend Java** · Accenture · 2025 – 2026
 
