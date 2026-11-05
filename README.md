@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/titulo.svg" width="800" alt="Hola, soy Jorge Martín Pérez Moreno 👋 — Desarrollador Software Junior">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/titulo-oscuro.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/titulo-claro.svg">
+    <img src="assets/titulo-claro.svg" width="800" alt="Hola, soy Jorge Martín Pérez Moreno 👋 — Desarrollador Software Junior">
+  </picture>
 </p>
 
 <p align="center">📍 Madrid, España · <b>Disponible para prácticas y empleo, incorporación inmediata</b> (presencial, híbrido o remoto)</p>
@@ -24,35 +28,25 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 
 ## 🛠️ Stack técnico
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py" alt="Java · Spring Boot · Spring MVC · Hibernate · Java EE (JSP · Servlets) · Maven · Python (PCEP)"><br>
-  <code>Java</code> <code>Spring Boot</code> <code>Spring MVC</code> <code>Hibernate</code> <code>Java EE (JSP · Servlets)</code> <code>Maven</code> <code>Python (PCEP)</code>
-</p>
+### Backend
 
-<h3 align="center">Bases de datos</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL · MySQL"><br>
-  <code>SQL</code> <code>MySQL</code>
-</p>
+<img src="assets/stack-backend.svg" alt="Java, Java EE (JSP · Servlets), Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Maven, Apache Tomcat, Python">
 
-<h3 align="center">Calidad y testing</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman" alt="SonarQube · Postman"><br>
-  <code>SonarQube</code> <code>Postman</code>
-</p>
+### Bases de datos
 
-<h3 align="center">DevOps y herramientas</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker · Git · GitHub · GitHub Copilot"><br>
-  <code>Docker</code> <code>Git</code> <code>GitHub</code> <code>GitHub Copilot</code>
-</p>
+<img src="assets/stack-bbdd.svg" alt="SQL, MySQL">
 
-<h3 align="center">En formación · Bootcamp Cloud y DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform" alt="AWS · Kubernetes · Terraform"><br>
-  <code>AWS</code> <code>Kubernetes</code> <code>Terraform</code>
-</p>
+### Calidad y testing
+
+<img src="assets/stack-calidad.svg" alt="SonarQube, Postman">
+
+### DevOps y herramientas
+
+<img src="assets/stack-devops.svg" alt="Docker, Git, GitHub, GitHub Copilot, IntelliJ IDEA, Visual Studio Code">
+
+### En formación · Bootcamp Cloud y DevOps
+
+<img src="assets/stack-cloud.svg" alt="AWS, Kubernetes, Terraform">
 
 <p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
 
@@ -113,7 +107,11 @@ Español (nativo) · Inglés B1 (experiencia profesional en Reino Unido)
 ## 📫 Contacto
 
 <p align="center">
-  <img src="assets/contacto.svg" width="700" alt="Construyamos algo que llegue a producción">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contacto-oscuro.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/contacto-claro.svg">
+    <img src="assets/contacto-claro.svg" width="700" alt="Construyamos algo que llegue a producción">
+  </picture>
 </p>
 
 <p align="center">
