@@ -1,6 +1,6 @@
 # Hola, soy Jorge Martín Pérez Moreno 👋
 
-**Desarrollador Software Junior**
+## Desarrollador Software Junior**
 
 📍 Madrid, España · **Disponible para prácticas y empleo, incorporación inmediata** (presencial, híbrido o remoto)
 
