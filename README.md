@@ -78,7 +78,7 @@ Juego de tres en raya por consola contra la máquina. Proyecto final del curso d
 
 | Certificación | Emisor | Fecha |
 |---|---|---|
-| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | Abr. 2026 |
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle University | Abr. 2026 |
 | Critical Career Skills – Generative AI Foundations | Certiport (Pearson VUE) | Feb. 2026 |
 | PCEP-30-02 – Certified Entry-Level Python Programmer | Python Institute | Jun. 2025 |
 
