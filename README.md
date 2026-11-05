@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/titulo-oscuro.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/titulo-claro.svg">
-    <img src="assets/titulo-claro.svg" width="800" alt="Hola, soy Jorge Martín Pérez Moreno 👋 — Desarrollador Software Junior">
-  </picture>
+  <img src="assets/titulo.svg" width="800" alt="Hola, soy Jorge Martín Pérez Moreno 👋 — Desarrollador Software Junior">
 </p>
 
 <p align="center">📍 Madrid, España · <b>Disponible para prácticas y empleo, incorporación inmediata</b> (presencial, híbrido o remoto)</p>
@@ -30,7 +26,7 @@ Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **enti
 
 ### Backend
 
-<img src="assets/stack-backend.svg" alt="Java, Java EE , Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Maven, Apache Tomcat, Python">
+<img src="assets/stack-backend.svg" alt="Java, Java EE, Spring Boot, Spring MVC, Spring Data, Spring Security, Hibernate, Maven, Apache Tomcat, Python">
 
 ### Bases de datos
 
@@ -107,11 +103,7 @@ Español (nativo) · Inglés B1 (experiencia profesional en Reino Unido)
 ## 📫 Contacto
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contacto-oscuro.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/contacto-claro.svg">
-    <img src="assets/contacto-claro.svg" width="700" alt="Construyamos algo que llegue a producción">
-  </picture>
+  <img src="assets/contacto.svg" width="700" alt="Construyamos algo que llegue a producción">
 </p>
 
 <p align="center">
