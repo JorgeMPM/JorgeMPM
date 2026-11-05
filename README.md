@@ -1,12 +1,16 @@
-# Hola, soy Jorge Martín Pérez Moreno 👋
+<p align="center">
+  <img src="assets/titulo.svg" width="800" alt="Hola, soy Jorge Martín Pérez Moreno 👋 — Desarrollador Software Junior">
+</p>
 
-## Desarrollador Software Junior
+<p align="center">📍 Madrid, España · <b>Disponible para prácticas y empleo, incorporación inmediata</b> (presencial, híbrido o remoto)</p>
 
-📍 Madrid, España · **Disponible para prácticas y empleo, incorporación inmediata** (presencial, híbrido o remoto)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-martin-perez-moreno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://jorge-martin-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:jorgemartinpm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/jorge-martin-perez-moreno)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://jorge-martin-dev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jorgemartinpm@gmail.com)
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
 
 ## 🙋 Sobre mí
 
@@ -16,35 +20,41 @@ En 2025 di el salto al desarrollo de software. Desde entonces me formo en **back
 
 Mi experiencia en banca me aporta algo que valoran los equipos técnicos: **entiendo el negocio financiero desde dentro**, trabajo con SLA y priorizo por impacto.
 
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
+
 ## 🛠️ Stack técnico
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE_(JSP_·_Servlets)-ED8B00?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(PCEP)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py" alt="Java · Spring Boot · Spring MVC · Hibernate · Java EE (JSP · Servlets) · Maven · Python (PCEP)"><br>
+  <code>Java</code> <code>Spring Boot</code> <code>Spring MVC</code> <code>Hibernate</code> <code>Java EE (JSP · Servlets)</code> <code>Maven</code> <code>Python (PCEP)</code>
+</p>
 
-### Bases de datos
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="center">Bases de datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL · MySQL"><br>
+  <code>SQL</code> <code>MySQL</code>
+</p>
 
-### Calidad y testing
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<h3 align="center">Calidad y testing</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" alt="SonarQube · Postman"><br>
+  <code>SonarQube</code> <code>Postman</code>
+</p>
 
-### DevOps y herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<h3 align="center">DevOps y herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker · Git · GitHub · GitHub Copilot"><br>
+  <code>Docker</code> <code>Git</code> <code>GitHub</code> <code>GitHub Copilot</code>
+</p>
 
-### En formación · Bootcamp Cloud y DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+<h3 align="center">En formación · Bootcamp Cloud y DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform" alt="AWS · Kubernetes · Terraform"><br>
+  <code>AWS</code> <code>Kubernetes</code> <code>Terraform</code>
+</p>
+
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
 
 ## 🚀 Proyectos destacados
 
@@ -74,6 +84,8 @@ Juego de tres en raya por consola contra la máquina. Proyecto final del curso d
 
 > 🔜 Próximamente: proyectos con **Spring Boot**, APIs REST y Docker del programa Java Backend con IA Generativa.
 
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
+
 ## 🎓 Certificaciones
 
 | Certificación | Emisor | Fecha |
@@ -82,20 +94,32 @@ Juego de tres en raya por consola contra la máquina. Proyecto final del curso d
 | Critical Career Skills – Generative AI Foundations | Certiport (Pearson VUE) | Feb. 2026 |
 | PCEP-30-02 – Certified Entry-Level Python Programmer | Python Institute | Jun. 2025 |
 
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
+
 ## 📚 Formación técnica
 
 - **Programa de Especialización en Desarrollo Backend Java e IA Generativa** · Accenture y Universidad San Pablo CEU · 2026
 - **Bootcamp Cloud Computing y DevOps** · BlockStellart · 2025 – actualidad
 - **Programa de Especialización en Desarrollo Backend Java** · Accenture · 2025 – 2026
 
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
+
 ## 🌍 Idiomas
 
 Español (nativo) · Inglés B1 (experiencia profesional en Reino Unido)
 
+<p align="center"><img src="assets/separador.svg" width="100%" height="6" alt=""></p>
+
 ## 📫 Contacto
 
-¿Buscas un perfil junior con experiencia en el sector financiero? Hablemos.
+<p align="center">
+  <img src="assets/contacto.svg" width="700" alt="Construyamos algo que llegue a producción">
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-martin-perez-moreno)
-- 🌐 [Portfolio](https://jorge-martin-dev.netlify.app/)
-- ✉️ [jorgemartinpm@gmail.com](mailto:jorgemartinpm@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jorge-martin-perez-moreno"><img src="https://img.shields.io/badge/LinkedIn-jorge--martin--perez--moreno-0A66C2?style=for-the-badge&labelColor=555555" alt="LinkedIn: jorge-martin-perez-moreno"></a>
+  <a href="https://jorge-martin-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-jorge--martin--dev-000000?style=for-the-badge&logo=netlify&logoColor=white&labelColor=555555" alt="Portfolio: jorge-martin-dev"></a>
+  <a href="mailto:jorgemartinpm@gmail.com"><img src="https://img.shields.io/badge/Email-jorgemartinpm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email: jorgemartinpm@gmail.com"></a>
+</p>
+
+<img src="assets/ola.svg" width="100%" alt="">
